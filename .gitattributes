@@ -1,0 +1,6 @@
+# Visual Basic 6 needs CRLF line endings and its .frx files are binary: store everything in src/ byte-for-byte.
+src/** -text
+*.frx binary
+*.ico binary
+*.chm binary
+*.gif binary

@@ -28,7 +28,21 @@ Catalogs are plain-text `.cdc` files. The scanner walks the disc breadth-first u
 | 2.0 | planned | Explorer-style tree view of a catalog and a better Find. Never shipped. |
 
 CDScan was freeware, distributed from personal home pages on mminternet, EarthLink and GeoCities and listed on
-shareware sites like SoftSeek and NoNags.
+shareware sites like SoftSeek and NoNags. It also turned up in several computer magazines and on dozens of shareware
+CD compilations. The old home pages, rebuilt from the Wayback Machine, are at
+[mike-monti.com/code/retro](https://mike-monti.com/code/retro).
+
+## Press
+
+PC World's Internet Tips column picked CDScan up in July 2000 ("Index CDs Quickly With CDScan", Scott Spanbauer,
+p. 221):
+
+> Fortunately, Mike Monti's free CDScan utility does perfectly what I need it to do. Insert a disc, enter a disc
+> name, click the utility's Scan button, and CDScan adds the disc's directory listing to your database.
+
+[Read the scan](https://archive.org/details/pcworld187unse?q=CDScan) on the Internet Archive. A follow-up column in
+2001 ([scan](https://archive.org/details/pcworld196unse?q=CDScan)) noted "Alas, CDScan isn't being updated." Version
+1.1b shipped a couple of months later.
 
 ## What's in this repo
 
